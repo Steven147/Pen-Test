@@ -216,6 +216,10 @@ poc有很多引擎，先找个python引擎如巡风或修改pocsuite，关键要
 
 - POC验证引擎2:[knownsec/pocsuite3: pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.](https://github.com/knownsec/pocsuite3)
 
+> Seebug+Pocsuite+ZoomEye PoC路线
+
+[漏洞列表 - 知道创宇 Seebug 漏洞平台](https://www.seebug.org/vuldb/vulnerabilities?has_poc=true)
+
 ### 4. 对专家智能渗透流程进行模拟和评估。
 
 [WSP-LAB/FUSE: A penetration testing tool for finding file upload bugs (NDSS 2020)](https://github.com/WSP-LAB/FUSE) 这是一个逻辑漏洞的通用解决，多做几个逻辑漏洞就可，
